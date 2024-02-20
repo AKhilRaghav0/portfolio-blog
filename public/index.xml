@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akhil Raghav</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Akhil Raghav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Akhil Raghav</copyright>
     <lastBuildDate>Tue, 20 Feb 2024 10:07:49 +0530</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://example.org/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Tue, 20 Feb 2024 10:07:49 +0530</pubDate>
-      <guid>https://example.org/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>Education BCA Indian Institute of Technology (IIT) Kharagpur, India&#xA;September 2016 - Present&#xA;CGPA: 8.9/10 Coursework in Computer Science and Mathematics Participated in various hackathons and workshops organized by IIT Kharagpur. Experience Software Developer Intern Snapdeal Private Limited, Noida, India May 2021 - July 2021 Developed a web application using ReactJS for displaying product recommendations based on user preferences. Implemented an ML model to predict the price of products given their features.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.org/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>Akhil Raghav I&amp;rsquo;m a developer from India with a passion for building native, easy-to-use software. My expertise lies in Swift, SwiftUI, and UIKit (programmatically). I also have experience with C++, HTML, CSS, and basic knowledge of JavaScript &amp;amp; TensorflowJS.&#xA;My focus is on creating functional and user-friendly applications with a keen eye for design. I enjoy tackling complex problems and transforming them into elegant solutions. Whether it&amp;rsquo;s writing code or designing interfaces, I strive for simplicity, beauty, and intuitiveness in my work.</description>
     </item>
     <item>
       <title>Google Carousal Effect on iOS</title>
-      <link>https://example.org/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>Google has a really cool on-hover effect that you can see on the web if you were to search for stuff like popular movies or Disney movies. The layout is pretty simple with a horizontally scrolling scrollview component with items that consist of the movie poster and the movie title displayed beneath it.&#xA;Google Carousal What’s interesting is that if you were to hover over any item, it smoothly expands to reveal additional detail</description>
     </item>
     <item>
       <title>Scratch Card Effect in SwiftUI</title>
-      <link>https://example.org/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>In this post we’ll learn how to create the scratch card effect in SwiftUI</description>
     </item>
   </channel>
