@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-02-20T10:07:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://example.org/resume/</loc>
     <lastmod>2024-02-20T10:07:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>https://example.org/about/about/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>https://example.org/posts/post-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ios/</loc>
+    <loc>https://example.org/tags/ios/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
+    <loc>https://example.org/posts/post-2/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/swiftui/</loc>
+    <loc>https://example.org/tags/swiftui/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
