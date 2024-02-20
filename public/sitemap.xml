@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akhilraghav.cloud/</loc>
+    <loc>/</loc>
     <lastmod>2024-02-20T10:07:49+05:30</lastmod>
   </url><url>
-    <loc>https://akhilraghav.cloud/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2024-02-20T10:07:49+05:30</lastmod>
   </url><url>
-    <loc>https://akhilraghav.cloud/about/about/</loc>
+    <loc>/about/about/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akhilraghav.cloud/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akhilraghav.cloud/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/posts/post-1/</loc>
+    <loc>/posts/post-1/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/tags/ios/</loc>
+    <loc>/tags/ios/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/posts/</loc>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/posts/post-2/</loc>
+    <loc>/posts/post-2/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/tags/swiftui/</loc>
+    <loc>/tags/swiftui/</loc>
   </url><url>
-    <loc>https://akhilraghav.cloud/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

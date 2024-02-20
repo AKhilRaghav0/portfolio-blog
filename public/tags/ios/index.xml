@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IOS on Akhil Raghav</title>
-    <link>https://akhilraghav.cloud/tags/ios/</link>
+    <link>/tags/ios/</link>
     <description>Recent content in IOS on Akhil Raghav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Akhil Raghav</copyright>
-    <atom:link href="https://akhilraghav.cloud/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Carousal Effect on iOS</title>
-      <link>https://akhilraghav.cloud/posts/post-1/</link>
+      <link>/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://akhilraghav.cloud/posts/post-1/</guid>
+      <guid>/posts/post-1/</guid>
       <description>Google has a really cool on-hover effect that you can see on the web if you were to search for stuff like popular movies or Disney movies. The layout is pretty simple with a horizontally scrolling scrollview component with items that consist of the movie poster and the movie title displayed beneath it.&#xA;Google Carousal What’s interesting is that if you were to hover over any item, it smoothly expands to reveal additional detail</description>
     </item>
   </channel>
