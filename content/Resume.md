@@ -10,7 +10,7 @@ draft = false
 _September 2016 - Present_      
 * CGPA: **8.9/10**
 * Coursework in Computer Science and Mathematics
-* Participated in various hackathons and workshops organized by IIT Kharagpur
+* Participated in various hackathons and workshops organized by IIT Kharagpur.
 
 ---
 
