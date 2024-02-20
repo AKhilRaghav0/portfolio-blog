@@ -1,0 +1,58 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme="archie"
+title = 'Akhil Raghav'
+copyright = 'Akhil Raghav'
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+        mode="auto"
+        useCDN=false
+        subtitle="FullStack iOS/OSX  Developer  | UI Designer"
+        
+
+[[params.social]]
+name = "twitter"
+icon = "twitter"
+url = "https://twitter.com/rghv064"
+
+[[params.social]]
+name = "github"
+icon = "github"
+url = "https://github.com/AKhilRaghav0"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/akhil-raghav-42ba26231/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/krypticbit"
+
+
+[[menu.main]]
+name  = "About Me"
+url =  "/about/about"
+weight = 2
+
+[[menu.main]]
+name  = "Home"
+url =  "/"
+weight = 1
+
+[[menu.main]]
+name  = "Tags"
+url =  "/tags"
+weight = 4
+
+[[menu.main]]
+name  = "Resume"
+url =  "/about/resume"
+weight = 3
+
+
+
