@@ -100,8 +100,8 @@ The result looks something like this:
 
 {{< figure src="https://i.postimg.cc/zB9GWdYL/google-carousal-ios.gif" title="Google's carousel on iOS." >}}
 
-## Instagram
-{{< instagram C3kBWv2uOjB >}} 
+<!-- ## Instagram
+{{< instagram C3kBWv2uOjB >}}  -->
 
 Notes:
 
