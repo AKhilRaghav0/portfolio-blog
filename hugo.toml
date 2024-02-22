@@ -38,7 +38,7 @@ url = "https://instagram.com/krypticbit"
 
 [[menu.main]]
 name  = "Home"
-url =  "/"
+url =  ""
 weight = 1
 
 [[menu.main]]
