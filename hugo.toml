@@ -47,7 +47,7 @@ weight = 3
 
 [[menu.main]]
 name  = "Home"
-url =  "/"
+url =  "/content"
 weight = 1
 
 [[menu.main]]
