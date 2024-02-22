@@ -52,7 +52,7 @@ weight = 4
 
 [[menu.main]]
 name  = "Resume"
-url =  "/about/resume"
+url =  "/about/Resume"
 weight = 3
 
 
