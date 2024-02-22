@@ -3,7 +3,7 @@ title: "Resume"
 
 _build:
   render: true
-  list: true
+  list: false
   publishResources: true
 ---
 

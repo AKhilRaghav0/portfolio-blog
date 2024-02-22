@@ -2,26 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Akhil Raghav</title>
-    <link>/about/</link>
+    <link>//localhost:1313/about/</link>
     <description>Recent content in Abouts on Akhil Raghav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Akhil Raghav</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/about/about/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/about/about/</guid>
-      <description>Akhil Raghav I&amp;rsquo;m a developer from India with a passion for building native, easy-to-use software. My expertise lies in Swift, SwiftUI, and UIKit (programmatically). I also have experience with C++, HTML, CSS, and basic knowledge of JavaScript &amp;amp; TensorflowJS.&#xA;My focus is on creating functional and user-friendly applications with a keen eye for design. I enjoy tackling complex problems and transforming them into elegant solutions. Whether it&amp;rsquo;s writing code or designing interfaces, I strive for simplicity, beauty, and intuitiveness in my work.</description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>/about/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/resume/</guid>
-      <description>Education Bachelor of Computer Applications. Maharshi Dayanand University&#xA;_ 2021 - 2024_&#xA;Senior Secondary Education (CBSE) March 2020&#xA;Secondary Education (CBSE) March 2018&#xA;Projects Developed a F1 car mod for the Open Source Minetest Game, enhancing the gameplay experience. Created a GitHub Action file enabling users to access macOS inside a runner,facilitating testing and development of Swift programs without the need for an actual Mac. Designed &amp;ldquo;ColabCraft,&amp;rdquo; a Google Colab file enabling Minecraft self-hosting without the requirement of a dedicated server.</description>
-    </item>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

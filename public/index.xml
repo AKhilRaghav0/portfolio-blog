@@ -2,39 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akhil Raghav</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Akhil Raghav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Akhil Raghav</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/about/about/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/about/about/</guid>
-      <description>Akhil Raghav I&amp;rsquo;m a developer from India with a passion for building native, easy-to-use software. My expertise lies in Swift, SwiftUI, and UIKit (programmatically). I also have experience with C++, HTML, CSS, and basic knowledge of JavaScript &amp;amp; TensorflowJS.&#xA;My focus is on creating functional and user-friendly applications with a keen eye for design. I enjoy tackling complex problems and transforming them into elegant solutions. Whether it&amp;rsquo;s writing code or designing interfaces, I strive for simplicity, beauty, and intuitiveness in my work.</description>
-    </item>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Carousal Effect on iOS</title>
-      <link>/posts/post-1/</link>
+      <link>//localhost:1313/posts/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/post-1/</guid>
+      <guid>//localhost:1313/posts/post-1/</guid>
       <description>Google has a really cool on-hover effect that you can see on the web if you were to search for stuff like popular movies or Disney movies. The layout is pretty simple with a horizontally scrolling scrollview component with items that consist of the movie poster and the movie title displayed beneath it.&#xA;Google Carousal What’s interesting is that if you were to hover over any item, it smoothly expands to reveal additional detail</description>
     </item>
     <item>
-      <title>Resume</title>
-      <link>/about/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/resume/</guid>
-      <description>Education Bachelor of Computer Applications. Maharshi Dayanand University&#xA;_ 2021 - 2024_&#xA;Senior Secondary Education (CBSE) March 2020&#xA;Secondary Education (CBSE) March 2018&#xA;Projects Developed a F1 car mod for the Open Source Minetest Game, enhancing the gameplay experience. Created a GitHub Action file enabling users to access macOS inside a runner,facilitating testing and development of Swift programs without the need for an actual Mac. Designed &amp;ldquo;ColabCraft,&amp;rdquo; a Google Colab file enabling Minecraft self-hosting without the requirement of a dedicated server.</description>
-    </item>
-    <item>
       <title>Scratch Card Effect in SwiftUI</title>
-      <link>/posts/post-2/</link>
+      <link>//localhost:1313/posts/post-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/post-2/</guid>
+      <guid>//localhost:1313/posts/post-2/</guid>
       <description>In this post we’ll learn how to create the scratch card effect in SwiftUI</description>
     </item>
   </channel>

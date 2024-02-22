@@ -1,7 +1,12 @@
-+++
-title = "About Me"
-date = 2022-09-01
-+++
+---
+
+title: "About Me"
+
+_build:
+  render: true
+  list: false
+  publishResources: true
+---
 
 
 {{< figure src="https://i.postimg.cc/vHdCSz4y/profile.jpg&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=350&q=80" title="Akhil Raghav" >}}
@@ -19,8 +24,5 @@ Feel free to reach out to me at [work@akhilraghav.cloud](mailto:work@akhilraghav
 
 
 --------
-
-## Portfolio 
-
 
 
