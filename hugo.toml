@@ -1,7 +1,8 @@
 baseURL = ""
-relativeURLs = "True"
+relativeURLs = true
 languageCode = 'en-us'
 theme="archie"
+content = "posts"
 title = 'Akhil Raghav'
 copyright = 'Akhil Raghav'
 pygmentsstyle = "monokai"
@@ -36,29 +37,23 @@ url = "https://instagram.com/krypticbit"
 
 
 [[menu.main]]
+name  = "Home"
+url =  "/"
+weight = 1
+
+[[menu.main]]
 name  = "About Me"
 url =  "/about/about"
 weight = 2
 
 [[menu.main]]
-name = "Posts"
-url = "/posts"
+name  = "Resume"
+url =  "/about/Resume"
 weight = 3
-
-[[menu.main]]
-name  = "Home"
-url =  "/content"
-weight = 1
 
 [[menu.main]]
 name  = "Tags"
 url =  "/tags"
 weight = 4
-
-[[menu.main]]
-name  = "Resume"
-url =  "/about/Resume"
-weight = 5
-
 
 

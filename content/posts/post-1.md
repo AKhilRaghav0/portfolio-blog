@@ -1,6 +1,7 @@
 ---
 title: "Google Carousal Effect on iOS"
 description: "Google Carousal Effect on iOS with a help of SwiftUI  and UIKit."
+date: 2024-01-31T14:07:29
 tags: [SwiftUI, iOS]
 _build:
   render: true
