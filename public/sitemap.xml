@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/post-1/</loc>
+    <loc>/posts/post-1/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ios/</loc>
+    <loc>/tags/ios/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/post-2/</loc>
+    <loc>/posts/post-2/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/swiftui/</loc>
+    <loc>/tags/swiftui/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
