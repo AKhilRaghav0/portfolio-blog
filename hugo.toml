@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = ""
 title = "Akhil Raghav"
 paginate = 5
 theme = "PaperMod"
@@ -128,7 +128,7 @@ googleAnalytics = "UA-123-45"
 [[menu.main]]
   identifier = "Home"
   name = "Home"
-  url = ""
+  url = "/"
   weight = 1
 
 [[menu.main]]
