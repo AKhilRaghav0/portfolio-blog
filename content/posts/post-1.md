@@ -104,11 +104,4 @@ The result looks something like this:
 <!-- ## Instagram
 {{< instagram C3kBWv2uOjB >}}  -->
 
-Notes:
 
-{{< callout emoji="⚡️" text="I tried using a `LazyHStack` instead of a regular HStack but that affected the animation" >}}
-
-{{< callout emoji="⚡️" text="I also tried combining the expand animation with the `scrollTo` animation but it was jerky. Which is why I added a small delay to it." >}}
-
-{{< callout emoji="⚡️" text="Setting the id modifier to the item view is important, else it would not scroll into view" >}}
- 
